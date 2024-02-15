@@ -6,13 +6,12 @@ const Banner = () => {
       <section className="section hero" aria-label="home">
         <div className="container">
           <h1 className="headline-lg hero-title">
-            Discover rate collection or{" "}
-            <span className="span">Arts & NFTs</span>
+            NFT MARKETPLACE{" "}
+            <span className="span">DEMO WEBSITE</span>
           </h1>
 
           <p className="section-text body-lg">
-            We are a huge marketplace dedicated to connecting great artists of
-            all web3 with their fans and unique token collectors!
+           Made for twyn internship
           </p>
 
           <a href="#" className="btn">

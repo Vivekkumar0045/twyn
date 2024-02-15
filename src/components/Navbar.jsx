@@ -16,7 +16,7 @@ const Navbar = () => {
         <div className="container">
           <a href="#">
             <img
-              src="/assets/images/logo-small.svg"
+              src="/assets/images/th.jpg"
               width="40"
               height="40"
               alt="home"
@@ -67,7 +67,7 @@ const Navbar = () => {
               aria-label="Metalink account: Fiona doe"
             >
               <img
-                src="/assets/images/profile.jpg"
+                src="/assets/images/OIP.jpg"
                 width="50"
                 height="50"
                 alt="Fiona doe"

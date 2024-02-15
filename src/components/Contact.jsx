@@ -10,14 +10,13 @@ const Contact = () => {
           </h2>
 
           <p className="body-md section-text text-center">
-            We are a huge marketplace dedicated to connecting great artists of
-            all Metalink with their fans and unique token collectors!
+            Hope you like my website
           </p>
 
           <a href="#" className="btn btn-primary">
             <ion-icon name="call-outline" aria-hidden="true"></ion-icon>
 
-            <span className="span">Contact us</span>
+            <a href="https://aboutvivek.netlify.app/#services" className="span">Contact us</a>
           </a>
         </div>
       </section>
